@@ -1,6 +1,6 @@
 # OnionApiTemplate# 🧱 Clean Architecture .NET Project
 
-This is a modular .NET 7 Web API project following the principles of Clean Architecture. The architecture separates concerns into distinct layers: **Presentation**, **API**, **Application**, **Domain**, and **Infrastructure**.
+This is a modular .NET 8 Web API project following the principles of Clean Architecture. The architecture separates concerns into distinct layers: **Presentation**, **API**, **Application**, **Domain**, and **Infrastructure**.
 
 ---
 
