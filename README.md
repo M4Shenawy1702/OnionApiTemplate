@@ -50,7 +50,7 @@ This is a modular .NET 7 Web API project following the principles of Clean Archi
 JWT Authentication is implemented using a strongly-typed `JwtSettings` class located in:
 
 ```
-Application/Common/Settings/JwtSettings.cs
+Application/Common/Settings/Jwt.cs
 ```
 
 JWT tokens are generated and validated in the `Application` or `Infrastructure` layer and configured in `Program.cs`.
