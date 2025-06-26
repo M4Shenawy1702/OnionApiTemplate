@@ -75,11 +75,6 @@ Api/Middleware/
 
 ---
 
-## 🧪 Testing (optional)
-
-You can add unit/integration tests under a separate `Tests/` folder following the same layer-based organization.
-
----
 
 ## 🚀 Getting Started
 
